@@ -96,7 +96,7 @@
     fill="#4AB62C">
     <animate attributeName="opacity"
       values="1;0"
-      dur="3s"
+      dur="4s"
       calcMode="discrete"
       repeatCount="indefinite"/>
   </path>
@@ -105,7 +105,7 @@
     fill="#4AB62C">
     <animate attributeName="opacity"
       values="0;1"
-      dur="3s"
+      dur="4s"
       calcMode="discrete"
       repeatCount="indefinite"/>
   </path>
